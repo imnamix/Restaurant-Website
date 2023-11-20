@@ -9,4 +9,4 @@ It was created using:
 * JavaScript
 
 ## Quick Live Preview
-![Alt text](assets/img/preview.JPG "Preview")
+![Alt text](assets/img/Capture.PNG "Preview")
